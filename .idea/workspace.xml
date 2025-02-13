@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dce33a2-bc85-4dcc-8792-9a506b940dd1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min﹖ver=3.27.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min﹖ver=3.27.2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend.min﹖ver=3.27.3.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend.min﹖ver=3.27.3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-108﹖ver=1734665264.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-108﹖ver=1734665264.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +54,7 @@
       <workItem from="1738705810041" duration="869000" />
       <workItem from="1739198210380" duration="5094000" />
       <workItem from="1739406509945" duration="250000" />
-      <workItem from="1739406844028" duration="1044000" />
+      <workItem from="1739406844028" duration="2559000" />
     </task>
     <servers />
   </component>
